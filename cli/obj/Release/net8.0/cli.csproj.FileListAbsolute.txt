@@ -1,0 +1,5 @@
+C:\Users\user1\Documents\חני\1תכנות\פרקטיקוד\cli\cli\obj\Release\net8.0\cli.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\חני\1תכנות\פרקטיקוד\cli\cli\obj\Release\net8.0\cli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\חני\1תכנות\פרקטיקוד\cli\cli\obj\Release\net8.0\cli.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\חני\1תכנות\פרקטיקוד\cli\cli\obj\Release\net8.0\cli.AssemblyInfo.cs
+C:\Users\user1\Documents\חני\1תכנות\פרקטיקוד\cli\cli\obj\Release\net8.0\cli.csproj.CoreCompileInputs.cache

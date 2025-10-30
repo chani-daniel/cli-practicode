@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "IstL/4jIDy0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user1\\Documents\\חני\\1תכנות\\פרקטיקוד\\cli\\cli\\cli.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
+}
